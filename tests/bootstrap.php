@@ -1,6 +1,7 @@
 <?php
 
 use Cake\Core\Plugin;
+use Cake\Datasource\ConnectionManager;
 
 require_once 'vendor/autoload.php';
 
